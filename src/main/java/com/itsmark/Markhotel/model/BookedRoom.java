@@ -1,7 +1,7 @@
 package com.itsmark.Markhotel.model;
 
 import java.time.LocalDate;
-import javax.persistence.Entity;
+import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
 
 import jakarta.persistence.Column;
